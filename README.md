@@ -27,9 +27,9 @@ The Lending companies can utilise this knowledge for its portfolio and risk asse
 - Applicants with purpose as 'debt_consolidation' have more chances of defaulting the loan
 
 ## Technologies Used
-Python 3.8.8
-Jupyter Notebook 6.3.0
-Git 2.33.1.windows.1
+- Python 3.8.8
+- Jupyter Notebook 6.3.0
+- Git 2.33.1.windows.1
 
 ## Contact
 Created by [@srivnih] - feel free to contact me!
